@@ -37,6 +37,7 @@ namespace UDPSensorStop
                 Thread.Sleep(100);
             }
 
+            // ReSharper disable once FunctionNeverReturns
         }
 
     }
